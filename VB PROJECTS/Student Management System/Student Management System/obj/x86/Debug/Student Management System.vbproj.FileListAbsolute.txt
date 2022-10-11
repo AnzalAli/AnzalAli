@@ -1,0 +1,9 @@
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Student Management System\Student Management System\bin\Debug\Student Management System.xml
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Student Management System\Student Management System\obj\x86\Debug\Student_Management_System.Form1.resources
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Student Management System\Student Management System\obj\x86\Debug\Student_Management_System.Resources.resources
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Student Management System\Student Management System\obj\x86\Debug\Student Management System.vbproj.GenerateResource.Cache
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Student Management System\Student Management System\obj\x86\Debug\Student Management System.exe
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Student Management System\Student Management System\obj\x86\Debug\Student Management System.xml
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Student Management System\Student Management System\obj\x86\Debug\Student Management System.pdb

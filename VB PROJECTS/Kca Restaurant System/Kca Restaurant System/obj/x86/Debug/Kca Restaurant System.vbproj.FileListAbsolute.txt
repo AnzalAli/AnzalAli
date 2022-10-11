@@ -1,0 +1,18 @@
+C:\Users\Anzal Ali\AppData\Local\Temporary Projects\Kca Restaurant System\bin\Debug\Kca Restaurant System.exe
+C:\Users\Anzal Ali\AppData\Local\Temporary Projects\Kca Restaurant System\bin\Debug\Kca Restaurant System.pdb
+C:\Users\Anzal Ali\AppData\Local\Temporary Projects\Kca Restaurant System\bin\Debug\Kca Restaurant System.xml
+C:\Users\Anzal Ali\AppData\Local\Temporary Projects\Kca Restaurant System\obj\x86\Debug\Kca_Restaurant_System.Form1.resources
+C:\Users\Anzal Ali\AppData\Local\Temporary Projects\Kca Restaurant System\obj\x86\Debug\Kca_Restaurant_System.Resources.resources
+C:\Users\Anzal Ali\AppData\Local\Temporary Projects\Kca Restaurant System\obj\x86\Debug\Kca Restaurant System.vbproj.GenerateResource.Cache
+C:\Users\Anzal Ali\AppData\Local\Temporary Projects\Kca Restaurant System\obj\x86\Debug\Kca Restaurant System.exe
+C:\Users\Anzal Ali\AppData\Local\Temporary Projects\Kca Restaurant System\obj\x86\Debug\Kca Restaurant System.xml
+C:\Users\Anzal Ali\AppData\Local\Temporary Projects\Kca Restaurant System\obj\x86\Debug\Kca Restaurant System.pdb
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Kca Restaurant System\Kca Restaurant System\obj\x86\Debug\Kca Restaurant System.exe
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Kca Restaurant System\Kca Restaurant System\obj\x86\Debug\Kca Restaurant System.xml
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Kca Restaurant System\Kca Restaurant System\obj\x86\Debug\Kca Restaurant System.pdb
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Kca Restaurant System\Kca Restaurant System\bin\Debug\Kca Restaurant System.exe
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Kca Restaurant System\Kca Restaurant System\bin\Debug\Kca Restaurant System.pdb
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Kca Restaurant System\Kca Restaurant System\bin\Debug\Kca Restaurant System.xml
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Kca Restaurant System\Kca Restaurant System\obj\x86\Debug\Kca_Restaurant_System.Form1.resources
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Kca Restaurant System\Kca Restaurant System\obj\x86\Debug\Kca_Restaurant_System.Resources.resources
+C:\Users\Anzal Ali\OneDrive\Desktop\VB PROJECTS\Kca Restaurant System\Kca Restaurant System\obj\x86\Debug\Kca Restaurant System.vbproj.GenerateResource.Cache
